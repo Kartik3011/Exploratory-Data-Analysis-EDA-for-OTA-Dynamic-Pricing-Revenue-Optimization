@@ -7,6 +7,23 @@ A MakeMyTrip/Goibibo scale Online Travel Agency (OTA) platform identified a crit
 
 This project audits historical platform data, clean raw engineering extracts, engineer demand sensitive features, and lay the groundwork for a dynamic pricing and search ranking machine learning model. 
 
+---
+
+## Repository Structure
+
+```text
+├── Dataset/
+│   ├── dim_customers.csv
+│   ├── dim_hotels.csv
+│   ├── fact_bookings.csv
+│   ├── fact_search_pricing.csv
+├── 1 data-cleaning-playbook.docx
+├── 2 ota-project-context(project brief).docx
+├── EDA project OTA clients.ipynb
+└── README.md
+```
+---
+
 ## Data Architecture & Handoff
 The data simulates a anonymous 3 year historical extract sourced from the client's Snowflake/BigQuery warehouse. The data contract consists of a star schema with four tables:
 
