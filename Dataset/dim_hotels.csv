@@ -1,0 +1,301 @@
+Hotel ID,Hotel Name,city,Locality,State,star_Rating,Property Type,Total_Rooms,Base Price(INR),Review_Score,Review_Count,Distance_From_Airport_KM,Cancellation_Policy,Chain,Listed_Since
+HTL0001,Sarovar Pune Heights,Pune,Baner,Maharashtra,2.0,Hotel,28.0,7411.0,4.1,8.0,3.8,Flexible,Sarovar,2021-07-15
+HTL0002,Sarovar Mumbai Residency,Mumbai,Juhu,Maharashtra,3.0,Hotel,,8815.0,4.7,,0.8,Flexible,Sarovar,2017-09-12
+HTL0003,FabHotels Bengaluru Central,Bengaluru,Koramangala,Karnataka,3.0,guest house,34.0,7919.0,4.7,4.0,,Moderate,FabHotels,2021-07-15
+HTL0004,FabHotels Mumbai Heights,mumbai,Andheri,Maharashtra,5.0,Hotel,58.0,11747.0,4.1,,,Moderate,FabHotels,2016-06-29
+HTL0005,Ginger Hyderabad,Hyderabad,Gachibowli,Telangana,3.0,hotel,50.0,8958.0,3.6,,5.6,Strict,Ginger,2017-01-10
+HTL0006,FabHotels Goa Residency,Goa,Anjuna,Goa,3.0,home-stay,31.0,8844.0,4.1,263.0,4.5,Moderate,FabHotels,2021-04-30
+HTL0007,FabHotels Mumbai Heights,MUMBAI,Colaba,Maharashtra,4.0,Guest House,52.0,8142.0,5.0,,7.4,Moderate,FabHotels,2020-01-31
+HTL0008,Lemon Tree Manali Residency,Manali,Solang Valley,Himachal Pradesh,4.0,Resort,34.0,10456.0,4.5,47.0,16.2,Flexible,Lemon Tree,2020-07-20
+HTL0009,Grand Sunrise Pune,Pune,Koregaon Park,Maharashtra,3.0,hotel,73.0,6960.0,3.1,,1.2,Strict,Independent,2016-09-14
+HTL0010,Ginger Kochi Central,Kochi,Marine Drive,Kerala,4.0,Guest House,73.0,11420.0,4.7,,13.8,Moderate,Ginger,2021-08-31
+HTL0011,FabHotels Kochi Heights,Kochi,Marine Drive,Kerala,2.0,hotel,51.0,4601.0,4.7,,4.4,Moderate,FabHotels,2022-06-13
+HTL0012,OYO Bengaluru Suites,Bengaluru ,Whitefield,Karnataka,3.0,guest house,33.0,7810.0,5.0,26.0,5.1,Moderate,OYO,2022-07-01
+HTL0013,OYO Manali Heights,Manali,Solang Valley,Himachal Pradesh,3.0,home-stay,17.0,7439.0,3.7,268.0,,Flexible,OYO,2015-08-30
+HTL0014,Hotel Palace Agra,Agra,Fatehabad Road,Uttar Pradesh,3.0,Heritage Property,8.0,9252.0,4.2,,13.5,Flexible,Independent,2020-01-14
+HTL0015,FabHotels Shimla Residency,Shimla,Chhota Shimla,Himachal Pradesh,4.0,Heritage Property,52.0,10267.0,5.0,303.0,,Non-Refundable,FabHotels,2022-08-28
+HTL0016,Sarovar Shimla Residency,Shimla,Mall Road,Himachal Pradesh,4.0,hotel,57.0,9523.0,4.3,402.0,,Flexible,Sarovar,2017-08-13
+HTL0017,Treebo Delhi,delhi,Karol Bagh,Delhi,4.0,RESORT,75.0,10208.0,4.0,13.0,9.4,Flexible,Treebo,2019-09-13
+HTL0018,Lemon Tree Lucknow,Lucknow,Hazratganj,Uttar Pradesh,4.0,home-stay,12.0,9392.0,4.4,258.0,,Moderate,Lemon Tree,2022-08-19
+HTL0019,Ginger Lucknow Heights,Lucknow,Gomti Nagar,Uttar Pradesh,3.0,Heritage Property,10.0,,4.6,6.0,9.1,Moderate,Ginger,2015-09-12
+HTL0020,OYO Agra Residency,Agra,Taj East Gate,Uttar Pradesh,4.0,Business Hotel,67.0,11245.0,,,2.2,Flexible,OYO,2015-08-04
+HTL0021,OYO Goa Residency,Goa,Panaji,Goa,4.0,Guest House,64.0,10921.0,5.0,,,Moderate,OYO,2015-10-16
+HTL0022,FabHotels Agra Residency,Agra,Sadar Bazaar,Uttar Pradesh,3.0,Homestay,22.0,7920.0,4.1,,6.7,Flexible,FabHotels,2016-05-18
+HTL0023,Royal View Goa,Goa,Calangute,Goa,2.0,Business Hotel,53.0,4544.0,4.9,241.0,11.3,Flexible,Independent,2023-05-29
+HTL0024,Royal Heritage Pune,Pune,Koregaon Park,Maharashtra,5.0,Guest House,55.0,10944.0,4.7,724.0,0.5,Non-Refundable,Independent,2020-12-03
+HTL0025,OYO Manali,Manali,Solang Valley,Himachal Pradesh,4.0,Hotel,56.0,9148.0,4.0,176.0,9.2,Strict,OYO,2022-10-22
+HTL0026,Treebo Chennai Residency,Chennai,ECR,Tamil Nadu,3.0,home-stay,28.0,7260.0,4.6,38.0,,Moderate,Treebo,2020-08-21
+HTL0027,FabHotels Pune,Pune,Viman Nagar,Maharashtra,3.0,Resort,9.0,7330.0,3.5,,30.7,Moderate,FabHotels,2017-07-17
+HTL0028,Treebo Agra Suites,Agra,Fatehabad Road,Uttar Pradesh,3.0,Hotel,27.0,8882.0,5.0,250.0,0.8,Moderate,Treebo,2017-03-04
+HTL0029,Sarovar Mysuru Heights,Mysuru,Devaraja Mohalla,Karnataka,4.0,home-stay,62.0,10218.0,5.0,,12.8,Flexible,Sarovar,2017-07-18
+HTL0030,ITC Kochi Residency,Kochi,Marine Drive,Kerala,2.0,Business Hotel,10.0,7774.0,3.4,,53.7,Strict,ITC,2018-11-10
+HTL0031,OYO Darjeeling Central,Darjeeling,Chowrasta,West Bengal,4.0,Heritage Property,85.0,10306.0,4.3,67.0,10.9,Strict,OYO,2019-11-13
+HTL0032,Lemon Tree Darjeeling Heights,Darjeeling,Mall Road,West Bengal,2.0,Business Hotel,16.0,6018.0,,,,Moderate,Lemon Tree,2016-11-27
+HTL0033,OYO Jaipur,Jaipur,Malviya Nagar,Rajasthan,4.0,Business Hotel,,10725.0,5.0,37.0,21.1,Strict,OYO,2020-04-26
+HTL0034,Sarovar Jodhpur Residency,Jodhpur,Clock Tower,Rajasthan,4.0,Guest House,46.0,9804.0,3.7,,3.6,Flexible,Sarovar,2023-02-23
+HTL0035,OYO Darjeeling Residency,Darjeeling,Mall Road,West Bengal,4.0,Heritage Property,78.0,9532.0,3.9,,9.4,Flexible,OYO,2017-05-21
+HTL0036,Treebo Hyderabad,Hyderabad,Gachibowli,Telangana,3.0,home-stay,55.0,6180.0,4.7,,,Flexible,Treebo,2016-06-20
+HTL0037,Sarovar Mumbai Suites,MUMBAI,BKC,Maharashtra,4.0,Business Hotel,64.0,10496.0,4.2,,25.1,Flexible,Sarovar,2016-09-13
+HTL0038,Treebo Amritsar Heights,Amritsar,Golden Temple Road,Punjab,3.0,RESORT,62.0,8170.0,4.8,,0.7,Flexible,Treebo,2020-04-23
+HTL0039,City Pearl Mysuru,Mysuru,Devaraja Mohalla,Karnataka,3.0,home-stay,,8275.0,4.1,,2.2,Strict,Independent,2015-08-21
+HTL0040,ITC Kolkata Central,kolkata,Salt Lake,West Bengal,4.0,hotel,43.0,9166.0,4.6,,,Moderate,ITC,2023-07-10
+HTL0041,Ginger Bengaluru,Bangalore,Whitefield,Karnataka,4.0,Guest House,42.0,9747.0,4.6,30.0,2.9,Moderate,Ginger,2020-12-24
+HTL0042,Treebo Kochi Residency,Kochi,Ernakulam,Kerala,4.0,Guest House,42.0,9655.0,5.0,,60.0,Strict,Treebo,2017-04-09
+HTL0043,OYO Varanasi Central,Benaras,Cantt,Uttar Pradesh,2.0,Heritage Property,,4056.0,3.4,215.0,24.4,Flexible,OYO,2017-09-12
+HTL0044,OYO Rishikesh Suites,Rishikesh,Ram Jhula,Uttarakhand,5.0,hotel,92.0,11027.0,5.0,106.0,8.0,Moderate,OYO,2019-02-08
+HTL0045,Radisson Jaipur Residency,Jaipur,Malviya Nagar,Rajasthan,3.0,Business Hotel,,8475.0,3.8,,2.6,Non-Refundable,Radisson,2019-06-20
+HTL0046,Taj Kochi Residency,Kochi,Ernakulam,Kerala,3.0,RESORT,64.0,7749.0,4.2,,4.6,Flexible,Taj,2019-09-22
+HTL0047,Lemon Tree Agra Central,Agra,Fatehabad Road,Uttar Pradesh,5.0,home-stay,48.0,11526.0,4.4,125.0,36.6,Moderate,Lemon Tree,2019-12-10
+HTL0048,Ginger Delhi,delhi,Dwarka,Delhi,3.0,guest house,44.0,9020.0,4.8,20.0,,Non-Refundable,Ginger,2016-04-07
+HTL0049,Sarovar Kolkata Central,Calcutta,Salt Lake,West Bengal,5.0,hotel,,10424.0,5.0,,8.6,Flexible,Sarovar,2017-01-13
+HTL0050,Royal Comfort Chennai,Chennai,ECR,Tamil Nadu,4.0,Heritage Property,,9235.0,4.8,,,Strict,Independent,2021-05-26
+HTL0051,The Comfort Kochi,Kochi,Marine Drive,Kerala,4.0,Hotel,35.0,9690.0,5.0,,40.2,Strict,Independent,2018-01-06
+HTL0052,FabHotels Delhi Suites,New Delhi ,Aerocity,Delhi,,hotel,,7388.0,4.1,,6.1,Flexible,FabHotels,2016-05-13
+HTL0053,OYO Varanasi,Benaras,Assi Ghat,Uttar Pradesh,3.0,Heritage Property,8.0,7624.0,4.3,,,Flexible,OYO,2020-11-28
+HTL0054,Sarovar Kolkata Residency,Kolkata,Park Street,West Bengal,5.0,Homestay,56.0,11924.0,4.3,,,Flexible,Sarovar,2018-07-01
+HTL0055,Lemon Tree Darjeeling Residency,Darjeeling,Mall Road,West Bengal,3.0,Homestay,,8065.0,4.7,80.0,55.2,Flexible,Lemon Tree,2015-03-16
+HTL0056,OYO Chennai Central,Chennai,ECR,Tamil Nadu,,Guest House,69.0,11354.0,4.6,,,Moderate,OYO,2020-01-06
+HTL0057,Marriott Goa Heights,Goa,Anjuna,Goa,3.0,Business Hotel,,8599.0,4.2,,,Flexible,Marriott,2017-05-31
+HTL0058,Lemon Tree Kolkata Residency,Calcutta,Park Street,West Bengal,3.0,Heritage Property,8.0,6775.0,3.6,,1.4,Strict,Lemon Tree,2015-02-28
+HTL0059,FabHotels Bengaluru Suites,Bangalore,MG Road,Karnataka,5.0,Heritage Property,52.0,11955.0,5.0,486.0,,Flexible,FabHotels,2019-04-10
+HTL0060,Grand Palace Amritsar,Amritsar,Ranjit Avenue,Punjab,5.0,Homestay,21.0,,4.5,200.0,9.8,Flexible,Independent,2018-01-06
+HTL0061,OYO Varanasi Suites,varanasi,Cantt,Uttar Pradesh,4.0,home-stay,,8990.0,4.5,92.0,7.4,Flexible,OYO,2018-06-21
+HTL0062,Lemon Tree Agra Central,Agra,Taj East Gate,Uttar Pradesh,5.0,home-stay,67.0,10022.0,5.0,140.0,28.2,Moderate,Lemon Tree,2020-08-21
+HTL0063,ITC Darjeeling,Darjeeling,Chowrasta,West Bengal,4.0,Hotel,51.0,9176.0,4.0,,3.0,Strict,ITC,2016-08-12
+HTL0064,FabHotels Shimla Heights,Shimla,Chhota Shimla,Himachal Pradesh,4.0,Hotel,48.0,9610.0,4.5,127.0,12.5,Moderate,FabHotels,2015-12-13
+HTL0065,Sarovar Ahmedabad Residency,Ahmedabad,SG Highway,Gujarat,3.0,guest house,19.0,6784.0,4.6,215.0,,Moderate,Sarovar,2020-07-17
+HTL0066,Radisson Jaipur,Jaipur,Malviya Nagar,Rajasthan,4.0,RESORT,,12074.0,5.0,,8.0,Strict,Radisson,2022-01-13
+HTL0067,City Heritage Rishikesh,Rishikesh,Ram Jhula,Uttarakhand,5.0,Guest House,71.0,11944.0,4.9,,,Moderate,Independent,2022-12-23
+HTL0068,Sarovar Jodhpur Residency,Jodhpur,Clock Tower,Rajasthan,3.0,hotel,13.0,8463.0,4.9,,1.0,Flexible,Sarovar,2019-01-17
+HTL0069,Ginger Goa Heights,Goa,Calangute,Goa,3.0,Guest House,32.0,8075.0,3.4,,3.8,Moderate,Ginger,2022-08-20
+HTL0070,Treebo Kolkata Central,Kolkata,New Town,West Bengal,4.0,Business Hotel,80.0,9809.0,5.0,412.0,,Non-Refundable,Treebo,2021-01-01
+HTL0071,Marriott Bengaluru Central,bengaluru,MG Road,Karnataka,4.0,Business Hotel,,9620.0,4.7,159.0,7.8,Strict,Marriott,2017-08-19
+HTL0072,Radisson Agra Heights,Agra,Taj East Gate,Uttar Pradesh,5.0,Business Hotel,,11222.0,4.4,201.0,,Moderate,Radisson,2022-09-01
+HTL0073,City Palace Hyderabad,Hyderabad,Hitech City,Telangana,2.0,hotel,13.0,4859.0,,,5.7,Flexible,Independent,2023-05-03
+HTL0074,FabHotels Hyderabad Residency,Hyderabad,Banjara Hills,Telangana,2.0,Hotel,37.0,,4.6,3.0,,Moderate,FabHotels,2022-07-15
+HTL0075,Royal Comfort Goa,Goa,Candolim,Goa,5.0,Guest House,105.0,12132.0,5.0,189.0,10.5,Moderate,Independent,2023-08-09
+HTL0076,Sarovar Goa,Goa,Calangute,Goa,3.0,Resort,39.0,8025.0,3.5,,0.5,Non-Refundable,Sarovar,2015-03-13
+HTL0077,Ginger Hyderabad,Hyderabad,Hitech City,Telangana,3.0,Business Hotel,18.0,8750.0,4.6,,26.8,Flexible,Ginger,2017-05-13
+HTL0078,FabHotels Bengaluru Residency,bengaluru,Whitefield,Karnataka,2.0,Guest House,50.0,5352.0,3.3,,6.9,Flexible,FabHotels,2022-01-31
+HTL0079,Radisson Amritsar Central,Amritsar,Ranjit Avenue,Punjab,2.0,home-stay,33.0,5713.0,3.3,,,Strict,Radisson,2020-06-14
+HTL0080,OYO Shimla Central,Shimla,Chhota Shimla,Himachal Pradesh,,Business Hotel,61.0,8696.0,4.4,165.0,,Flexible,OYO,2016-07-30
+HTL0081,Lemon Tree Rishikesh Suites,Rishikesh,Laxman Jhula,Uttarakhand,3.0,hotel,41.0,7535.0,3.8,219.0,15.9,Flexible,Lemon Tree,2018-10-17
+HTL0082,OYO Shimla Residency,Shimla,Chhota Shimla,Himachal Pradesh,5.0,Hotel,53.0,11782.0,4.7,589.0,,Flexible,OYO,2019-05-29
+HTL0083,Sarovar Shimla,Shimla,Chhota Shimla,Himachal Pradesh,3.0,hotel,,8480.0,4.5,,7.2,Strict,Sarovar,2015-07-17
+HTL0084,OYO Chennai Suites,Chennai,Anna Nagar,Tamil Nadu,3.0,RESORT,,7359.0,3.9,,,Flexible,OYO,2018-07-16
+HTL0085,Royal Pearl Agra,Agra,Sadar Bazaar,Uttar Pradesh,3.0,Heritage Property,62.0,7622.0,4.3,130.0,,Flexible,Independent,2023-03-19
+HTL0086,Ginger Rishikesh Residency,Rishikesh,Laxman Jhula,Uttarakhand,3.0,Homestay,8.0,7904.0,4.2,78.0,4.1,Strict,Ginger,2021-03-03
+HTL0087,Taj Jaipur Heights,Jaipur,Pink City,Rajasthan,4.0,home-stay,48.0,9923.0,5.0,,,Flexible,Taj,2023-04-14
+HTL0088,Radisson Darjeeling Residency,Darjeeling,Chowrasta,West Bengal,4.0,Homestay,64.0,9786.0,4.5,218.0,,Flexible,Radisson,2022-03-19
+HTL0089,OYO Udaipur,Udaipur,City Palace Road,Rajasthan,4.0,Business Hotel,64.0,9233.0,5.0,,,Strict,OYO,2023-07-07
+HTL0090,Ginger Varanasi,Varanasi,Dashashwamedh Ghat,Uttar Pradesh,4.0,Resort,49.0,10078.0,4.1,,15.9,Flexible,Ginger,2021-03-26
+HTL0091,Lemon Tree Bengaluru Suites,Bangalore,MG Road,Karnataka,5.0,Homestay,38.0,11264.0,4.5,,,Moderate,Lemon Tree,2019-08-18
+HTL0092,Ginger Shimla,Shimla,Chhota Shimla,Himachal Pradesh,2.0,Resort,,,4.5,50.0,21.0,Flexible,Ginger,2015-09-12
+HTL0093,Radisson Kochi Suites,Kochi,Fort Kochi,Kerala,4.0,RESORT,52.0,8195.0,4.6,,19.3,Flexible,Radisson,2017-10-14
+HTL0094,Ginger Shimla Heights,Shimla,Mall Road,Himachal Pradesh,2.0,Heritage Property,,7472.0,3.2,34.0,26.0,Flexible,Ginger,2019-10-08
+HTL0095,Sarovar Kochi Heights,Kochi,Marine Drive,Kerala,,Hotel,,9479.0,4.7,,9.4,Non-Refundable,Sarovar,2020-12-02
+HTL0096,Sarovar Varanasi Residency,Varanasi,Dashashwamedh Ghat,Uttar Pradesh,4.0,hotel,46.0,8911.0,3.7,116.0,6.5,Flexible,Sarovar,2022-08-25
+HTL0097,Sarovar Goa Heights,Goa,Calangute,Goa,3.0,hotel,,8851.0,3.8,,11.9,Strict,Sarovar,2017-08-10
+HTL0098,Sarovar Ahmedabad Suites,Ahmedabad,SG Highway,Gujarat,3.0,RESORT,8.0,7227.0,4.0,,9.8,Moderate,Sarovar,2016-04-04
+HTL0099,OYO Goa,Goa,Candolim,Goa,1.0,guest house,,5765.0,,,14.4,Flexible,OYO,2021-09-27
+HTL0100,OYO Delhi Suites,delhi,Karol Bagh,Delhi,5.0,Business Hotel,76.0,10650.0,4.2,18.0,,Moderate,OYO,2017-09-19
+HTL0101,Treebo Kochi,Kochi,Marine Drive,Kerala,3.0,Resort,45.0,10564.0,4.1,,5.8,Moderate,Treebo,2018-06-13
+HTL0102,OYO Mumbai Heights,Mumbai,Colaba,Maharashtra,2.0,Heritage Property,58.0,6951.0,3.4,,54.9,Flexible,OYO,2019-10-05
+HTL0103,ITC Manali Central,Manali,Mall Road,Himachal Pradesh,3.0,home-stay,52.0,7436.0,4.1,498.0,3.3,Moderate,ITC,2017-03-22
+HTL0104,City Sunrise Delhi,DELHI,Aerocity,Delhi,4.0,Resort,43.0,9757.0,4.2,257.0,2.8,Flexible,Independent,2017-03-05
+HTL0105,Treebo Kolkata Suites,Kolkata,New Town,West Bengal,3.0,Homestay,78.0,9006.0,4.2,,,Moderate,Treebo,2017-02-06
+HTL0106,Treebo Kolkata Central,Kolkata,Salt Lake,West Bengal,4.0,guest house,37.0,9534.0,3.9,,10.9,Flexible,Treebo,2015-04-07
+HTL0107,OYO Mysuru Central,Mysuru,Vijayanagar,Karnataka,4.0,Hotel,72.0,10564.0,4.7,94.0,21.1,Flexible,OYO,2022-12-26
+HTL0108,The Heritage Pune,Pune,Koregaon Park,Maharashtra,3.0,home-stay,37.0,7238.0,4.1,260.0,12.1,Moderate,Independent,2020-11-19
+HTL0109,OYO Varanasi Heights,Benaras,Cantt,Uttar Pradesh,2.0,home-stay,24.0,6193.0,4.7,,2.1,Flexible,OYO,2015-01-12
+HTL0110,Radisson Bengaluru Suites,Bengaluru,Koramangala,Karnataka,2.0,Heritage Property,8.0,7237.0,4.3,,5.3,Flexible,Radisson,2023-08-15
+HTL0111,Royal Sunrise Hyderabad,Hyderabad,Banjara Hills,Telangana,4.0,Hotel,73.0,10046.0,5.0,,,Flexible,Independent,2020-01-03
+HTL0112,Lemon Tree Agra Heights,Agra,Taj East Gate,Uttar Pradesh,3.0,Hotel,34.0,8409.0,4.5,,14.3,Strict,Lemon Tree,2023-08-07
+HTL0113,OYO Shimla Central,Shimla,Mall Road,Himachal Pradesh,2.0,Business Hotel,8.0,6390.0,3.4,,,Flexible,OYO,2023-05-19
+HTL0114,Club Mahindra Bengaluru Suites,bengaluru,Whitefield,Karnataka,4.0,home-stay,54.0,9443.0,5.0,,10.2,Non-Refundable,Club Mahindra,2021-12-02
+HTL0115,Radisson Mumbai Suites,Bombay,Andheri,Maharashtra,5.0,Homestay,93.0,10830.0,,14.0,11.6,Moderate,Radisson,2021-09-05
+HTL0116,Sarovar Darjeeling Central,Darjeeling,Mall Road,West Bengal,5.0,Hotel,72.0,11433.0,5.0,79.0,0.8,Moderate,Sarovar,2020-03-22
+HTL0117,Royal View Shimla,Shimla,Mall Road,Himachal Pradesh,3.0,RESORT,49.0,8111.0,4.7,,0.7,Flexible,Independent,2023-04-13
+HTL0118,Hotel Palace Hyderabad,Hyderabad,Hitech City,Telangana,4.0,home-stay,81.0,8508.0,,,0.5,Flexible,Independent,2021-09-06
+HTL0119,Treebo Bengaluru Heights,Bangalore,Indiranagar,Karnataka,5.0,RESORT,56.0,12689.0,4.7,,,Flexible,Treebo,2015-05-19
+HTL0120,FabHotels Kochi Suites,Kochi,Fort Kochi,Kerala,3.0,RESORT,43.0,7712.0,,403.0,11.0,Non-Refundable,FabHotels,2017-12-20
+HTL0121,OYO Mysuru Central,Mysuru,Vijayanagar,Karnataka,3.0,Heritage Property,58.0,8127.0,4.3,743.0,,Flexible,OYO,2016-06-28
+HTL0122,Treebo Rishikesh Residency,Rishikesh,Tapovan,Uttarakhand,5.0,Guest House,29.0,,5.0,302.0,0.8,Flexible,Treebo,2021-05-10
+HTL0123,Ginger Chennai Suites,Chennai,T Nagar,Tamil Nadu,3.0,Resort,19.0,8571.0,4.1,,7.4,Flexible,Ginger,2017-08-22
+HTL0124,Radisson Jaipur,Jaipur,C-Scheme,Rajasthan,3.0,Resort,22.0,6879.0,3.8,,16.4,Flexible,Radisson,2017-10-04
+HTL0125,Treebo Amritsar Central,Amritsar,Golden Temple Road,Punjab,,Business Hotel,,7102.0,5.0,27.0,,Flexible,Treebo,2017-08-04
+HTL0126,Sarovar Varanasi Central,Varanasi,Dashashwamedh Ghat,Uttar Pradesh,5.0,Homestay,20.0,11363.0,4.0,,,Flexible,Sarovar,2021-09-25
+HTL0127,ITC Ahmedabad Central,Ahmedabad,SG Highway,Gujarat,5.0,home-stay,30.0,11694.0,5.0,,7.2,Moderate,ITC,2022-06-15
+HTL0128,OYO Delhi,delhi,Aerocity,Delhi,3.0,guest house,8.0,7855.0,4.7,72.0,,Flexible,OYO,2018-10-24
+HTL0129,OYO Jaipur Suites,Jaipur,C-Scheme,Rajasthan,3.0,Hotel,26.0,7315.0,4.0,,3.2,Strict,OYO,2019-08-03
+HTL0130,Ginger Jodhpur,Jodhpur,Clock Tower,Rajasthan,3.0,Homestay,40.0,8238.0,4.1,,,Flexible,Ginger,2020-07-23
+HTL0131,Treebo Lucknow Heights,Lucknow,Hazratganj,Uttar Pradesh,3.0,hotel,65.0,8455.0,4.4,303.0,18.9,Moderate,Treebo,2016-01-09
+HTL0132,Taj Darjeeling Suites,Darjeeling,Chowrasta,West Bengal,3.0,Heritage Property,,8069.0,5.0,37.0,,Flexible,Taj,2015-07-30
+HTL0133,Grand Nest Hyderabad,Hyderabad,Hitech City,Telangana,4.0,Heritage Property,,9915.0,4.1,121.0,18.1,Moderate,Independent,2019-05-20
+HTL0134,ITC Shimla Central,Shimla,Chhota Shimla,Himachal Pradesh,3.0,Heritage Property,,6225.0,4.1,,4.3,Flexible,ITC,2016-01-06
+HTL0135,FabHotels Shimla Suites,Shimla,Mall Road,Himachal Pradesh,3.0,Business Hotel,57.0,8443.0,3.8,116.0,6.2,Flexible,FabHotels,2021-03-09
+HTL0136,Marriott Jaipur Heights,Jaipur,Malviya Nagar,Rajasthan,3.0,hotel,28.0,8595.0,4.0,40.0,0.5,Moderate,Marriott,2016-08-20
+HTL0137,Radisson Manali,Manali,Old Manali,Himachal Pradesh,4.0,RESORT,42.0,10412.0,4.8,,3.5,Flexible,Radisson,2023-06-14
+HTL0138,Lemon Tree Agra Central,Agra,Taj East Gate,Uttar Pradesh,3.0,Business Hotel,10.0,8707.0,3.9,113.0,5.7,Moderate,Lemon Tree,2022-02-19
+HTL0139,OYO Shimla,Shimla,Chhota Shimla,Himachal Pradesh,4.0,RESORT,31.0,9834.0,4.9,,8.6,Moderate,OYO,2017-03-14
+HTL0140,Taj Kochi Residency,Kochi,Ernakulam,Kerala,4.0,Hotel,,9464.0,4.1,,2.5,Flexible,Taj,2019-01-11
+HTL0141,OYO Goa Residency,Goa,Panaji,Goa,5.0,Hotel,69.0,12271.0,4.5,104.0,16.2,Flexible,OYO,2021-09-21
+HTL0142,FabHotels Varanasi Suites,Benaras,Assi Ghat,Uttar Pradesh,3.0,Heritage Property,30.0,7369.0,4.7,312.0,23.6,Flexible,FabHotels,2019-05-14
+HTL0143,Lemon Tree Jodhpur,Jodhpur,Clock Tower,Rajasthan,4.0,Business Hotel,47.0,9098.0,4.6,344.0,4.0,Flexible,Lemon Tree,2020-06-27
+HTL0144,Radisson Varanasi,Varanasi,Cantt,Uttar Pradesh,3.0,Business Hotel,,8071.0,4.2,,0.5,Flexible,Radisson,2015-10-02
+HTL0145,Lemon Tree Jaipur Suites,Jaipur,Malviya Nagar,Rajasthan,4.0,hotel,42.0,8517.0,,,26.1,Moderate,Lemon Tree,2015-06-16
+HTL0146,FabHotels Mumbai Central,Mumbai,Andheri,Maharashtra,4.0,home-stay,,9748.0,4.2,,20.5,Strict,FabHotels,2019-03-28
+HTL0147,Sarovar Darjeeling Residency,Darjeeling,Mall Road,West Bengal,3.0,Hotel,16.0,7674.0,4.7,,18.8,Flexible,Sarovar,2020-07-07
+HTL0148,Sarovar Hyderabad Residency,Hyderabad,Hitech City,Telangana,3.0,Resort,,7929.0,4.9,,,Moderate,Sarovar,2017-10-30
+HTL0149,Lemon Tree Udaipur,Udaipur,Lake Pichola,Rajasthan,5.0,Homestay,,10000.0,4.8,271.0,10.3,Flexible,Lemon Tree,2020-05-20
+HTL0150,FabHotels Agra,Agra,Fatehabad Road,Uttar Pradesh,3.0,Guest House,33.0,8114.0,4.4,,4.5,Flexible,FabHotels,2017-03-25
+HTL0151,Ginger Udaipur Suites,Udaipur,Lake Pichola,Rajasthan,4.0,home-stay,70.0,9137.0,5.0,,6.8,Strict,Ginger,2017-12-18
+HTL0152,The Elite Goa,Goa,Panaji,Goa,5.0,Business Hotel,72.0,11325.0,4.3,138.0,9.5,Non-Refundable,Independent,2022-01-23
+HTL0153,Grand Comfort Shimla,Shimla,Mall Road,Himachal Pradesh,3.0,Heritage Property,34.0,6166.0,4.2,82.0,,Flexible,Independent,2023-07-29
+HTL0154,Ginger Bengaluru Residency,Bengaluru,Whitefield,Karnataka,2.0,guest house,45.0,6149.0,4.0,,,Strict,Ginger,2017-11-04
+HTL0155,FabHotels Hyderabad,Hyderabad,Gachibowli,Telangana,3.0,home-stay,,8609.0,3.6,,2.8,Flexible,FabHotels,2016-09-03
+HTL0156,FabHotels Hyderabad Heights,Hyderabad,Banjara Hills,Telangana,4.0,Heritage Property,60.0,9706.0,5.0,,10.2,Flexible,FabHotels,2017-07-19
+HTL0157,Marriott Mysuru Central,Mysuru,Vijayanagar,Karnataka,4.0,Hotel,96.0,10182.0,4.5,,6.9,Flexible,Marriott,2020-11-12
+HTL0158,Treebo Manali Heights,Manali,Solang Valley,Himachal Pradesh,5.0,guest house,43.0,9767.0,5.0,,6.6,Flexible,Treebo,2019-02-09
+HTL0159,Hotel Heritage Mysuru,Mysuru,Devaraja Mohalla,Karnataka,3.0,Hotel,54.0,8242.0,4.5,,5.5,Moderate,Independent,2015-09-18
+HTL0160,OYO Darjeeling Suites,Darjeeling,Mall Road,West Bengal,3.0,Heritage Property,,6059.0,4.7,656.0,0.5,Flexible,OYO,2021-04-22
+HTL0161,FabHotels Manali,Manali,Old Manali,Himachal Pradesh,2.0,Business Hotel,,5739.0,4.0,24.0,,Flexible,FabHotels,2015-01-02
+HTL0162,OYO Mumbai Central,mumbai,Bandra,Maharashtra,2.0,Heritage Property,28.0,5264.0,3.9,178.0,6.2,Flexible,OYO,2016-03-05
+HTL0163,FabHotels Delhi Residency,DELHI,Aerocity,Delhi,2.0,RESORT,,6648.0,4.7,,15.0,Moderate,FabHotels,2022-03-17
+HTL0164,Marriott Amritsar Heights,Amritsar,Ranjit Avenue,Punjab,4.0,guest house,,8604.0,4.2,16.0,20.5,Flexible,Marriott,2022-01-07
+HTL0165,Sarovar Mumbai Heights,Mumbai,Juhu,Maharashtra,4.0,Guest House,46.0,9359.0,5.0,,,Strict,Sarovar,2023-05-11
+HTL0166,OYO Varanasi Heights,Varanasi,Dashashwamedh Ghat,Uttar Pradesh,,RESORT,18.0,9029.0,3.8,,7.7,Flexible,OYO,2022-03-22
+HTL0167,OYO Mumbai Suites,Bombay,BKC,Maharashtra,5.0,Hotel,,10130.0,4.5,,9.6,Moderate,OYO,2022-09-09
+HTL0168,Sarovar Amritsar Suites,Amritsar,Golden Temple Road,Punjab,3.0,Resort,54.0,9266.0,4.9,227.0,,Flexible,Sarovar,2017-08-25
+HTL0169,Sarovar Agra Suites,Agra,Fatehabad Road,Uttar Pradesh,5.0,Resort,29.0,9760.0,4.8,,1.5,Moderate,Sarovar,2019-04-04
+HTL0170,Sarovar Darjeeling,Darjeeling,Mall Road,West Bengal,4.0,Business Hotel,,10392.0,5.0,,19.8,Strict,Sarovar,2019-11-26
+HTL0171,FabHotels Kolkata Suites,Calcutta,New Town,West Bengal,3.0,Resort,36.0,6588.0,4.5,,20.0,Moderate,FabHotels,2021-05-04
+HTL0172,OYO Udaipur Central,Udaipur,Fatehsagar,Rajasthan,5.0,hotel,,11381.0,4.5,,22.1,Strict,OYO,2018-11-13
+HTL0173,The Pearl Jaipur,Jaipur,Malviya Nagar,Rajasthan,4.0,RESORT,34.0,10454.0,4.5,557.0,,Flexible,Independent,2015-07-11
+HTL0174,Grand Palace Bengaluru,Bengaluru,Indiranagar,Karnataka,5.0,Guest House,,10972.0,4.9,,14.5,Flexible,Independent,2017-04-22
+HTL0175,OYO Agra Central,Agra,Fatehabad Road,Uttar Pradesh,4.0,hotel,81.0,10761.0,4.3,759.0,,Flexible,OYO,2016-02-05
+HTL0176,ITC Darjeeling Suites,Darjeeling,Chowrasta,West Bengal,3.0,home-stay,61.0,9521.0,4.1,288.0,4.6,Flexible,ITC,2017-11-17
+HTL0177,OYO Hyderabad Suites,Hyderabad,Hitech City,Telangana,2.0,home-stay,71.0,7488.0,,206.0,,Moderate,OYO,2015-05-07
+HTL0178,OYO Rishikesh,Rishikesh,Tapovan,Uttarakhand,4.0,hotel,77.0,10399.0,5.0,,,Moderate,OYO,2021-01-12
+HTL0179,ITC Ahmedabad Central,Ahmedabad,Navrangpura,Gujarat,,guest house,56.0,8459.0,4.1,67.0,32.4,Flexible,ITC,2020-11-14
+HTL0180,Radisson Agra Central,Agra,Fatehabad Road,Uttar Pradesh,4.0,Hotel,66.0,,4.0,399.0,23.6,Flexible,Radisson,2022-10-18
+HTL0181,Sarovar Udaipur,Udaipur,Fatehsagar,Rajasthan,3.0,home-stay,31.0,7665.0,4.4,,,Non-Refundable,Sarovar,2018-03-08
+HTL0182,Sarovar Agra Residency,Agra,Taj East Gate,Uttar Pradesh,5.0,Business Hotel,,11195.0,,283.0,9.0,Non-Refundable,Sarovar,2023-08-07
+HTL0183,Treebo Bengaluru,bengaluru,Whitefield,Karnataka,2.0,hotel,39.0,6796.0,3.3,,0.9,Flexible,Treebo,2019-06-05
+HTL0184,Ginger Bengaluru Central,Bangalore,Whitefield,Karnataka,3.0,home-stay,62.0,9024.0,,134.0,0.7,Flexible,Ginger,2021-02-10
+HTL0185,Taj Amritsar Residency,Amritsar,Golden Temple Road,Punjab,3.0,Business Hotel,25.0,8370.0,4.0,237.0,,Flexible,Taj,2018-08-31
+HTL0186,Taj Amritsar Heights,Amritsar,Golden Temple Road,Punjab,4.0,Guest House,43.0,,5.0,,,Moderate,Taj,2022-09-23
+HTL0187,FabHotels Chennai Residency,Chennai,ECR,Tamil Nadu,4.0,home-stay,43.0,9973.0,5.0,71.0,6.1,Strict,FabHotels,2017-09-01
+HTL0188,ITC Amritsar Suites,Amritsar,Golden Temple Road,Punjab,4.0,guest house,62.0,10873.0,5.0,94.0,,Non-Refundable,ITC,2023-02-10
+HTL0189,FabHotels Pune Suites,Pune,Viman Nagar,Maharashtra,5.0,RESORT,56.0,12264.0,5.0,18.0,22.2,Non-Refundable,FabHotels,2017-11-25
+HTL0190,Taj Goa Central,Goa,Baga,Goa,4.0,Resort,72.0,11279.0,5.0,,,Non-Refundable,Taj,2018-05-22
+HTL0191,Ginger Hyderabad Residency,Hyderabad,Hitech City,Telangana,3.0,hotel,,8238.0,3.7,258.0,,Flexible,Ginger,2019-05-10
+HTL0192,OYO Varanasi Heights,varanasi,Dashashwamedh Ghat,Uttar Pradesh,2.0,Heritage Property,47.0,5690.0,3.4,,0.5,Moderate,OYO,2022-02-03
+HTL0193,Treebo Hyderabad Residency,Hyderabad,Banjara Hills,Telangana,4.0,Homestay,57.0,9342.0,4.2,,5.0,Moderate,Treebo,2019-10-28
+HTL0194,FabHotels Ahmedabad Heights,Ahmedabad,Navrangpura,Gujarat,3.0,Resort,,6640.0,4.7,,,Moderate,FabHotels,2020-02-03
+HTL0195,Lemon Tree Rishikesh Central,Rishikesh,Tapovan,Uttarakhand,,Heritage Property,,10995.0,4.5,,0.5,Moderate,Lemon Tree,2022-01-22
+HTL0196,Radisson Udaipur Heights,Udaipur,Lake Pichola,Rajasthan,3.0,Business Hotel,16.0,6881.0,4.2,,5.4,Moderate,Radisson,2019-08-04
+HTL0197,Hotel Elite Amritsar,Amritsar,Ranjit Avenue,Punjab,3.0,Hotel,51.0,8296.0,4.1,,,Strict,Independent,2016-03-11
+HTL0198,Radisson Mumbai Residency,mumbai,BKC,Maharashtra,3.0,RESORT,28.0,9047.0,4.3,,,Flexible,Radisson,2021-06-11
+HTL0199,FabHotels Varanasi Heights,Varanasi,Assi Ghat,Uttar Pradesh,3.0,Guest House,35.0,7150.0,4.4,89.0,0.5,Strict,FabHotels,2019-02-24
+HTL0200,Lemon Tree Amritsar Heights,Amritsar,Ranjit Avenue,Punjab,4.0,Resort,83.0,8254.0,4.1,,6.5,Moderate,Lemon Tree,2016-05-16
+HTL0201,Lemon Tree Mysuru Central,Mysuru,Vijayanagar,Karnataka,3.0,Homestay,28.0,6261.0,4.8,100.0,9.7,Flexible,Lemon Tree,2015-02-24
+HTL0202,Ginger Bengaluru Heights,bengaluru,MG Road,Karnataka,5.0,home-stay,56.0,12057.0,5.0,,10.9,Flexible,Ginger,2023-04-26
+HTL0203,Sarovar Shimla,Shimla,Chhota Shimla,Himachal Pradesh,3.0,Resort,39.0,7187.0,,327.0,,Flexible,Sarovar,2016-06-13
+HTL0204,Hotel View Bengaluru,Bangalore,Koramangala,Karnataka,3.0,Guest House,37.0,7702.0,2.7,,33.0,Flexible,Independent,2022-03-01
+HTL0205,Treebo Rishikesh Suites,Rishikesh,Tapovan,Uttarakhand,2.0,Guest House,,7746.0,,200.0,,Flexible,Treebo,2017-08-01
+HTL0206,Grand Nest Chennai,Chennai,T Nagar,Tamil Nadu,4.0,RESORT,80.0,9799.0,4.1,356.0,17.9,Strict,Independent,2018-02-25
+HTL0207,Radisson Manali Suites,Manali,Mall Road,Himachal Pradesh,5.0,home-stay,57.0,11481.0,4.4,,0.6,Flexible,Radisson,2022-02-23
+HTL0208,Marriott Bengaluru Suites,bengaluru,Indiranagar,Karnataka,3.0,RESORT,,7085.0,4.5,,,Flexible,Marriott,2021-05-01
+HTL0209,Hotel Elite Pune,Pune,Baner,Maharashtra,5.0,guest house,72.0,12621.0,5.0,89.0,14.7,Flexible,Independent,2015-10-22
+HTL0210,Lemon Tree Darjeeling,Darjeeling,Mall Road,West Bengal,2.0,hotel,35.0,5014.0,,,28.8,Flexible,Lemon Tree,2020-01-26
+HTL0211,Hotel Nest Manali,Manali,Solang Valley,Himachal Pradesh,3.0,Guest House,59.0,8971.0,4.3,323.0,3.9,Strict,Independent,2021-10-27
+HTL0212,Marriott Bengaluru,Bangalore,Indiranagar,Karnataka,4.0,Homestay,41.0,10945.0,5.0,,,Moderate,Marriott,2020-12-14
+HTL0213,Royal Sunrise Bengaluru,Bengaluru,Whitefield,Karnataka,4.0,Guest House,57.0,9973.0,,787.0,20.8,Flexible,Independent,2016-07-24
+HTL0214,Treebo Kochi Central,Kochi,Fort Kochi,Kerala,2.0,Business Hotel,24.0,7356.0,3.1,,,Moderate,Treebo,2017-10-06
+HTL0215,Taj Kochi,Kochi,Marine Drive,Kerala,2.0,Hotel,70.0,4556.0,4.5,209.0,1.4,Moderate,Taj,2021-04-23
+HTL0216,Marriott Kochi Heights,Kochi,Marine Drive,Kerala,4.0,home-stay,52.0,10284.0,3.9,,8.6,Non-Refundable,Marriott,2022-07-31
+HTL0217,Taj Bengaluru Suites,Bengaluru,MG Road,Karnataka,3.0,Hotel,8.0,7106.0,3.7,161.0,9.2,Moderate,Taj,2018-09-15
+HTL0218,Treebo Goa Heights,Goa,Baga,Goa,,RESORT,,9727.0,,189.0,11.4,Moderate,Treebo,2022-01-05
+HTL0219,Lemon Tree Jaipur Suites,Jaipur,Malviya Nagar,Rajasthan,3.0,home-stay,,7432.0,3.5,193.0,26.1,Moderate,Lemon Tree,2017-05-13
+HTL0220,Ginger Hyderabad Heights,Hyderabad,Hitech City,Telangana,4.0,Homestay,64.0,9116.0,4.9,8.0,2.7,Flexible,Ginger,2020-07-15
+HTL0221,Lemon Tree Shimla Suites,Shimla,Mall Road,Himachal Pradesh,4.0,Guest House,60.0,9037.0,4.4,33.0,8.7,Moderate,Lemon Tree,2016-04-28
+HTL0222,ITC Pune Suites,Pune,Koregaon Park,Maharashtra,2.0,RESORT,72.0,6245.0,4.1,,10.1,Flexible,ITC,2021-03-20
+HTL0223,FabHotels Shimla Central,Shimla,Mall Road,Himachal Pradesh,4.0,Heritage Property,40.0,10053.0,4.6,,21.8,Flexible,FabHotels,2017-02-16
+HTL0224,FabHotels Kochi Central,Kochi,Ernakulam,Kerala,3.0,Guest House,20.0,8871.0,4.0,43.0,8.7,Flexible,FabHotels,2022-07-22
+HTL0225,Club Mahindra Mysuru Central,Mysuru,Vijayanagar,Karnataka,3.0,Resort,36.0,7795.0,3.9,101.0,4.4,Moderate,Club Mahindra,2016-12-13
+HTL0226,Marriott Goa Central,Goa,Calangute,Goa,5.0,Heritage Property,72.0,11881.0,4.9,,18.8,Flexible,Marriott,2016-07-22
+HTL0227,FabHotels Hyderabad Suites,Hyderabad,Hitech City,Telangana,3.0,Homestay,,8727.0,4.6,128.0,2.2,Flexible,FabHotels,2015-03-25
+HTL0228,FabHotels Rishikesh,Rishikesh,Ram Jhula,Uttarakhand,4.0,Hotel,76.0,11041.0,5.0,,3.4,Moderate,FabHotels,2016-05-01
+HTL0229,FabHotels Rishikesh Heights,Rishikesh,Laxman Jhula,Uttarakhand,4.0,Business Hotel,51.0,10201.0,4.7,,1.8,Moderate,FabHotels,2021-08-29
+HTL0230,Sarovar Ahmedabad Residency,Ahmedabad,Navrangpura,Gujarat,,Business Hotel,25.0,7500.0,5.0,,24.3,Flexible,Sarovar,2020-04-18
+HTL0231,Club Mahindra Agra Central,Agra,Taj East Gate,Uttar Pradesh,5.0,Heritage Property,21.0,11123.0,4.1,666.0,4.1,Moderate,Club Mahindra,2016-05-13
+HTL0232,ITC Bengaluru Central,Bengaluru ,MG Road,Karnataka,2.0,RESORT,68.0,6812.0,5.0,,11.6,Flexible,ITC,2021-05-19
+HTL0233,Ginger Kolkata Residency,Calcutta,New Town,West Bengal,4.0,Hotel,50.0,8986.0,5.0,79.0,7.3,Moderate,Ginger,2016-08-16
+HTL0234,Lemon Tree Bengaluru,Bengaluru ,Whitefield,Karnataka,3.0,Business Hotel,42.0,8440.0,3.5,452.0,,Strict,Lemon Tree,2015-08-04
+HTL0235,OYO Mumbai Central,Mumbai,Juhu,Maharashtra,4.0,guest house,,9895.0,4.7,,1.1,Flexible,OYO,2023-03-07
+HTL0236,Taj Mysuru Heights,Mysuru,Vijayanagar,Karnataka,5.0,guest house,54.0,12498.0,5.0,,,Flexible,Taj,2021-06-13
+HTL0237,Treebo Varanasi Residency,Varanasi,Cantt,Uttar Pradesh,5.0,RESORT,49.0,12801.0,5.0,,5.7,Non-Refundable,Treebo,2016-11-02
+HTL0238,Royal Nest Darjeeling,Darjeeling,Chowrasta,West Bengal,2.0,Business Hotel,33.0,6939.0,3.2,25.0,6.7,Flexible,Independent,2015-09-06
+HTL0239,Sarovar Mysuru,Mysuru,Devaraja Mohalla,Karnataka,4.0,home-stay,87.0,9137.0,3.6,309.0,9.7,Moderate,Sarovar,2018-06-18
+HTL0240,Ginger Ahmedabad Residency,Ahmedabad,SG Highway,Gujarat,3.0,Heritage Property,38.0,7535.0,3.8,158.0,32.5,Moderate,Ginger,2017-08-17
+HTL0241,Radisson Varanasi Central,Benaras,Cantt,Uttar Pradesh,3.0,home-stay,41.0,7319.0,4.3,,4.7,Flexible,Radisson,2021-07-30
+HTL0242,Radisson Mumbai Residency,mumbai,Colaba,Maharashtra,5.0,guest house,,11191.0,5.0,,11.0,Non-Refundable,Radisson,2021-02-21
+HTL0243,Royal Elite Jodhpur,Jodhpur,Umaid Bhawan Road,Rajasthan,3.0,Guest House,37.0,7600.0,4.7,,,Strict,Independent,2017-03-31
+HTL0244,Lemon Tree Kolkata Central,Calcutta,New Town,West Bengal,,Heritage Property,8.0,5297.0,4.3,,10.8,Flexible,Lemon Tree,2017-11-09
+HTL0245,Royal View Ahmedabad,Ahmedabad,SG Highway,Gujarat,3.0,Guest House,8.0,7202.0,4.1,59.0,51.2,Strict,Independent,2017-08-11
+HTL0246,FabHotels Shimla Suites,Shimla,Chhota Shimla,Himachal Pradesh,3.0,Guest House,62.0,9080.0,5.0,,,Moderate,FabHotels,2017-04-06
+HTL0247,ITC Agra Central,Agra,Fatehabad Road,Uttar Pradesh,4.0,RESORT,19.0,9458.0,5.0,,,Moderate,ITC,2019-01-10
+HTL0248,Hotel Palace Shimla,Shimla,Chhota Shimla,Himachal Pradesh,4.0,Hotel,,10619.0,5.0,3.0,8.1,Strict,Independent,2019-03-03
+HTL0249,Treebo Darjeeling Central,Darjeeling,Mall Road,West Bengal,4.0,RESORT,38.0,,5.0,,16.7,Flexible,Treebo,2020-10-28
+HTL0250,OYO Mysuru Central,Mysuru,Devaraja Mohalla,Karnataka,4.0,Resort,14.0,9042.0,4.2,46.0,,Flexible,OYO,2018-02-20
+HTL0251,OYO Rishikesh Heights,Rishikesh,Tapovan,Uttarakhand,5.0,guest house,73.0,11339.0,,,,Strict,OYO,2018-10-19
+HTL0252,Sarovar Agra Heights,Agra,Taj East Gate,Uttar Pradesh,2.0,hotel,21.0,5027.0,4.7,143.0,3.1,Flexible,Sarovar,2019-02-23
+HTL0253,Treebo Varanasi Central,varanasi,Cantt,Uttar Pradesh,3.0,guest house,38.0,8729.0,,18.0,0.8,Strict,Treebo,2022-12-03
+HTL0254,Radisson Bengaluru,Bengaluru,Indiranagar,Karnataka,4.0,Resort,40.0,9495.0,,18.0,1.4,Flexible,Radisson,2016-10-16
+HTL0255,Sarovar Manali Residency,Manali,Mall Road,Himachal Pradesh,3.0,RESORT,24.0,7085.0,3.7,,,Non-Refundable,Sarovar,2015-08-31
+HTL0256,Sarovar Lucknow Central,Lucknow,Hazratganj,Uttar Pradesh,5.0,Homestay,54.0,10955.0,3.8,,18.6,Flexible,Sarovar,2018-07-25
+HTL0257,Sarovar Delhi Suites,New Delhi ,Paharganj,Delhi,4.0,guest house,61.0,10578.0,4.8,,21.2,Strict,Sarovar,2016-03-07
+HTL0258,Lemon Tree Kochi Suites,Kochi,Marine Drive,Kerala,3.0,Heritage Property,12.0,6502.0,,17.0,20.6,Moderate,Lemon Tree,2016-11-21
+HTL0259,Radisson Varanasi Residency,Benaras,Assi Ghat,Uttar Pradesh,4.0,Hotel,76.0,8805.0,4.7,,13.8,Strict,Radisson,2015-05-28
+HTL0260,Sarovar Udaipur Residency,Udaipur,Fatehsagar,Rajasthan,3.0,hotel,52.0,9579.0,4.8,,13.0,Flexible,Sarovar,2020-01-06
+HTL0261,Sarovar Goa Heights,Goa,Candolim,Goa,3.0,Hotel,8.0,8539.0,4.0,117.0,,Non-Refundable,Sarovar,2018-08-14
+HTL0262,Treebo Kolkata Suites,Calcutta,Park Street,West Bengal,1.0,RESORT,44.0,4530.0,4.5,,22.7,Moderate,Treebo,2017-01-08
+HTL0263,FabHotels Varanasi Residency,Varanasi,Cantt,Uttar Pradesh,4.0,Business Hotel,,10218.0,5.0,,6.9,Flexible,FabHotels,2017-10-07
+HTL0264,OYO Jaipur,Jaipur,C-Scheme,Rajasthan,3.0,Homestay,35.0,8269.0,4.3,127.0,8.5,Flexible,OYO,2016-03-23
+HTL0265,Ginger Pune Heights,Pune,Baner,Maharashtra,3.0,hotel,12.0,7250.0,5.0,328.0,,Flexible,Ginger,2022-06-30
+HTL0266,FabHotels Agra Suites,Agra,Taj East Gate,Uttar Pradesh,3.0,hotel,25.0,5484.0,,319.0,27.0,Non-Refundable,FabHotels,2019-11-05
+HTL0267,Sarovar Chennai Residency,Chennai,Anna Nagar,Tamil Nadu,4.0,hotel,65.0,11422.0,4.6,336.0,27.5,Flexible,Sarovar,2016-10-26
+HTL0268,Grand Heritage Mumbai,MUMBAI,BKC,Maharashtra,,Hotel,58.0,8379.0,4.4,45.0,2.0,Flexible,Independent,2016-07-28
+HTL0269,OYO Varanasi,Varanasi,Cantt,Uttar Pradesh,5.0,Homestay,96.0,12410.0,5.0,,11.2,Flexible,OYO,2019-08-03
+HTL0270,Radisson Agra Residency,Agra,Sadar Bazaar,Uttar Pradesh,4.0,RESORT,,10038.0,4.5,,,Strict,Radisson,2022-12-24
+HTL0271,ITC Udaipur Central,Udaipur,City Palace Road,Rajasthan,5.0,hotel,68.0,11302.0,4.5,22.0,2.2,Flexible,ITC,2016-07-15
+HTL0272,Marriott Mysuru Residency,Mysuru,Devaraja Mohalla,Karnataka,5.0,guest house,67.0,12430.0,4.7,562.0,40.7,Flexible,Marriott,2022-10-06
+HTL0273,Ginger Amritsar Central,Amritsar,Ranjit Avenue,Punjab,3.0,Guest House,37.0,6304.0,4.2,,6.1,Flexible,Ginger,2022-03-03
+HTL0274,OYO Kochi Heights,Kochi,Ernakulam,Kerala,3.0,Business Hotel,,7754.0,3.5,,,Flexible,OYO,2017-02-01
+HTL0275,Grand Pearl Ahmedabad,Ahmedabad,Navrangpura,Gujarat,4.0,RESORT,61.0,9796.0,3.9,,26.1,Flexible,Independent,2019-12-31
+HTL0276,OYO Amritsar Suites,Amritsar,Ranjit Avenue,Punjab,4.0,Resort,56.0,9699.0,4.1,348.0,,Moderate,OYO,2015-09-08
+HTL0277,Club Mahindra Hyderabad Heights,Hyderabad,Gachibowli,Telangana,4.0,Business Hotel,59.0,10494.0,4.3,,,Strict,Club Mahindra,2016-07-04
+HTL0278,Radisson Delhi Central,New Delhi ,Aerocity,Delhi,3.0,Resort,39.0,8666.0,3.8,,5.0,Flexible,Radisson,2018-07-01
+HTL0279,FabHotels Chennai Central,Chennai,ECR,Tamil Nadu,3.0,Hotel,,8440.0,4.3,145.0,,Moderate,FabHotels,2017-12-06
+HTL0280,City View Delhi,New Delhi,Paharganj,Delhi,3.0,Guest House,36.0,8375.0,3.3,,4.7,Flexible,Independent,2016-01-20
+HTL0281,OYO Udaipur Central,Udaipur,Fatehsagar,Rajasthan,3.0,Business Hotel,36.0,6867.0,4.1,24.0,4.8,Moderate,OYO,2018-02-19
+HTL0282,OYO Goa Heights,Goa,Baga,Goa,4.0,RESORT,56.0,9641.0,5.0,,,Flexible,OYO,2021-06-04
+HTL0283,Hotel Pearl Varanasi,varanasi,Cantt,Uttar Pradesh,5.0,Heritage Property,57.0,11103.0,4.9,,33.9,Moderate,Independent,2021-10-05
+HTL0284,OYO Amritsar Central,Amritsar,Ranjit Avenue,Punjab,3.0,home-stay,29.0,6531.0,,73.0,0.5,Flexible,OYO,2018-10-04
+HTL0285,City Elite Rishikesh,Rishikesh,Tapovan,Uttarakhand,4.0,Heritage Property,41.0,8948.0,4.0,,,Moderate,Independent,2022-08-17
+HTL0286,Radisson Manali Heights,Manali,Old Manali,Himachal Pradesh,5.0,Hotel,50.0,11162.0,5.0,,0.5,Moderate,Radisson,2015-10-11
+HTL0287,Ginger Pune,Pune,Koregaon Park,Maharashtra,4.0,Hotel,,,4.8,254.0,,Flexible,Ginger,2019-06-15
+HTL0288,FabHotels Varanasi Central,varanasi,Assi Ghat,Uttar Pradesh,3.0,Hotel,25.0,7609.0,4.3,171.0,1.1,Flexible,FabHotels,2022-08-10
+HTL0289,Radisson Mysuru,Mysuru,Vijayanagar,Karnataka,3.0,Hotel,17.0,7928.0,4.5,84.0,,Flexible,Radisson,2015-02-25
+HTL0290,Radisson Rishikesh Central,Rishikesh,Tapovan,Uttarakhand,4.0,Homestay,,9619.0,4.8,,0.5,Flexible,Radisson,2016-11-14
+HTL0291,OYO Goa,Goa,Candolim,Goa,2.0,Homestay,36.0,6583.0,3.5,,0.5,Moderate,OYO,2016-08-30
+HTL0292,OYO Varanasi Residency,Benaras,Assi Ghat,Uttar Pradesh,4.0,Homestay,56.0,11071.0,,,,Flexible,OYO,2017-09-23
+HTL0293,Grand View Bengaluru,Bangalore,Indiranagar,Karnataka,4.0,guest house,87.0,9431.0,4.4,365.0,26.4,Flexible,Independent,2022-12-19
+HTL0294,Treebo Manali,Manali,Mall Road,Himachal Pradesh,4.0,Homestay,46.0,9662.0,4.8,,5.2,Strict,Treebo,2015-05-07
+HTL0295,Lemon Tree Kolkata Residency,kolkata,Salt Lake,West Bengal,4.0,Guest House,,9551.0,4.6,,,Non-Refundable,Lemon Tree,2019-06-12
+HTL0296,Sarovar Delhi Residency,delhi,Dwarka,Delhi,2.0,Resort,,6984.0,4.5,,47.3,Flexible,Sarovar,2018-01-10
+HTL0297,Club Mahindra Hyderabad Residency,Hyderabad,Banjara Hills,Telangana,3.0,Homestay,,7705.0,2.9,98.0,4.4,Flexible,Club Mahindra,2015-10-01
+HTL0298,Club Mahindra Mysuru Heights,Mysuru,Vijayanagar,Karnataka,4.0,Hotel,48.0,10050.0,,,13.8,Flexible,Club Mahindra,2023-07-22
+HTL0299,Treebo Goa Residency,Goa,Panaji,Goa,5.0,Heritage Property,56.0,13033.0,4.9,232.0,,Flexible,Treebo,2017-04-09
+HTL0300,FabHotels Mysuru Suites,Mysuru,Vijayanagar,Karnataka,4.0,Guest House,51.0,9045.0,4.7,23.0,,Flexible,FabHotels,2022-01-27
