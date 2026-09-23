@@ -56,5 +56,5 @@ The engineered dataset pipelines into two distinct predictive models representin
 1. Clone the repository:
    ```bash
    git clone [https://github.com/kartik3011/ota-dynamic-pricing-analytics.git](https://github.com/kartik3011/ota-dynamic-pricing-analytics.git)
-
-2. Run EDA project OTA clients.ipynb step by step.
+2. Change the location of the datasets inside pd.readcsv as per your dataset location.
+3. Run EDA project OTA clients.ipynb step by step.
